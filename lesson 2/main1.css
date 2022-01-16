@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+.x{
+    margin-top: 100px;
+    background: #7f7f80;
+height: 400px;
+    width: 750px;
+    margin-left: 15px;
+    box-shadow: #d3b68e -20px -30px 55px 10px;
+}
+.xx{
+    width: 550px;
+    margin-left: 15px;
+    box-sizing: border-box;
+    padding-left: 35px;
+    font-size: 20pt;
+    border-left: 6px solid #f60302;
+}
