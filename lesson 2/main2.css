@@ -1,0 +1,30 @@
+div{
+    box-sizing: border-box;
+    margin:30px auto;
+    height: 150px;
+    width: 150px;
+    background: #fda901;
+    font-size: 20pt;
+    padding-left: 65px;
+    padding-top: 65px;
+}
+.xx1{
+    box-shadow: #464646 17px 17px 2px 0px;
+}
+.xx2{
+    box-shadow: #464646 15px 15px 5px 0px;
+}
+.xx3{
+    box-shadow: #464646 20px 20px 5px 0px;
+}
+.xx4{
+       box-shadow: #9d9d9d 20px 20px 5px 0px;
+}
+.xx5{
+    border-radius: 5px;
+    box-shadow: #464646 17px 17px 5px 0px;
+}
+.xx6{
+    border-radius: 5px;
+    box-shadow: #9d9d9d 17px 17px 5px 0px;
+}
