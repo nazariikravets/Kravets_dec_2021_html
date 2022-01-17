@@ -1,0 +1,28 @@
+.xxx1{
+    box-sizing: border-box;
+    background: #882726;
+    padding-left: 750px;
+    color: #f7ecd4;
+}
+.xxx2{
+    box-sizing: border-box;
+    background: #bfbfbf;
+    padding: 20px;
+}
+.xxx3{
+    box-sizing: border-box;
+    background: #6394eb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.xxx4{
+    background: #6bb967;
+    height: 250px;
+    width: 250px;
+}
+.xxx5{
+    background: #8785aa;
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+}
