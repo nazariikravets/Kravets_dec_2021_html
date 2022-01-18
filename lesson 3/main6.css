@@ -1,0 +1,29 @@
+.wrap1{
+    display: flex;
+    width: 320px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.x{
+    height: 300px;
+    width: 150px;
+    background: #2269ba;
+}
+.xx{
+    height: 100px;
+    width: 320px;
+    background: #2269ba;
+    margin-bottom: 20px;
+}
+.xxx{
+    width: 93px;
+    height: 120px;
+    background: #16457a;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20pt;
+}
