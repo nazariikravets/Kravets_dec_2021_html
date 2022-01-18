@@ -1,0 +1,39 @@
+#up{
+    height: 100px;
+    width: 860px;
+    background: silver;
+    margin-bottom: 20px;
+}
+.wrap{
+    display: flex;
+    width: 860px;
+    justify-content: space-between;
+}
+.kon{
+    height: 200px;
+    width: 200px;
+    background: silver;
+}
+.H{
+    height: 420px;
+    width: 200px;
+    background: silver;
+}
+.wrap1{
+    display: flex;
+    width: 640px;
+    justify-content: space-between;
+}
+.kon1{
+    height: 200px;
+    width: 200px;
+    background: silver;
+    position: relative;
+    bottom: 200px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25pt;
+}
