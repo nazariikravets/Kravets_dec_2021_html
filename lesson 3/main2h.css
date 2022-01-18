@@ -1,0 +1,31 @@
+#wid{
+    height: 300px;
+    width: 800px;
+    background: #2269ba;
+    margin-bottom: 10px;
+}
+.conteiner{
+    height: 280px;
+    width: 800px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.xc{
+    height: 280px;
+    width: 260px;
+    background: #16457a;
+
+}
+#contact{
+    height: 400px;
+    width: 800px;
+    background: #2269ba;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30pt;
+    color: white;
+}
