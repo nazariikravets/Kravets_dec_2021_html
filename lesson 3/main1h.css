@@ -1,0 +1,41 @@
+#header{
+    height: 100px;
+    width: 800px;
+    background: #e5f6af;
+    margin-bottom: 20px;
+}
+#conteiner{
+    display: flex
+
+}
+#menu{
+    background: #fdb6fe;
+    height: 400px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#conteiner1{
+    height: 400px;
+    width: 580px;
+}
+.post{
+    height: 190px;
+    width: 580px;
+    background: #9ee1fe;
+    margin-bottom: 20px;
+}
+#footer{
+    height: 100px;
+    width: 800px;
+    background: #e3e378;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30pt;
+}
