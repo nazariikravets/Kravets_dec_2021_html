@@ -1,0 +1,35 @@
+.bac-blue{
+    background: blue;
+}
+.bac-dark-blue{
+    background: #04134f;
+}
+.wid-400{
+    width: 400px;
+}
+.wid-820{
+    width: 820px;
+}
+.wid-260{
+    width: 260px;
+}
+.hei-600{
+    height: 600px;
+}
+.hei-300{
+    height: 300px;
+}
+.margi-bott{
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20pt;
+}
