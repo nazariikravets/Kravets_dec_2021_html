@@ -1,0 +1,32 @@
+.hig-200{
+    height: 200px;
+}
+.wid-800{
+    width: 800px;
+}
+.hig-400{
+    height: 400px;
+}
+.bac-blue{
+    background: blue;
+}
+.bac-dark-blue{
+    background: #060c62;
+}
+.wid-253{
+    width: 253px;
+}
+.margi-bott{
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30pt;
+    color: white;
+}
