@@ -1,0 +1,38 @@
+.bac-silver{
+    background: silver;
+}
+.wid-900{
+    width: 900px;
+}
+.wid-180{
+    width: 180px;
+}
+.wid-220{
+    width: 220px;
+}
+.wid-700{
+    width: 700px;
+}
+.hei-200{
+    height: 200px;
+}
+.hei-420{
+    height: 420px;
+}
+.margi-bott{
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.posi-bott{
+    position: relative;
+    bottom: 200px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20pt;
+}
