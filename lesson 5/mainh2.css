@@ -1,0 +1,39 @@
+.wid-1000{
+    width: 1000px;
+}
+.wid-200{
+    width: 200px;
+}
+.wid-780{
+    width: 780px;
+}
+.wid-560{
+    width: 560px;
+}
+.hei-100{
+    height: 100px;
+}
+.hei-200{
+    height: 200px;
+}
+.hei-500{
+    height: 500px;
+}
+.hei-520{
+    height: 520px;
+}
+.hei-150{
+    height: 150px;
+}
+.bac-black{
+    background: #262525;
+}
+.margi-bott{
+    margin-bottom: 20px;
+}
+.flex{
+    display: flex;
+}
+.margi-rig{
+    margin-right: 20px;
+}

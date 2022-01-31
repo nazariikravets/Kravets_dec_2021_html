@@ -1,0 +1,27 @@
+.A{
+    background: silver;
+    height: 300px;
+    width: 1400px;
+    margin-bottom: 30px;
+}
+.BC{
+    display: flex;
+    width: 1400px;
+    justify-content: space-between;
+}
+.B{
+    background: silver;
+    height: 600px;
+    width: 1000px;
+}
+.C{
+    background: silver;
+    height: 600px;
+    width: 370px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
